@@ -12,7 +12,7 @@
 nav:
   # Navigation bar logo image
   logo:
-  display_title: true
+  display_title: sunshinefactory
   display_post_title: true
   # Whether to fix navigation bar
   fixed: false
@@ -288,7 +288,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/sunshinefactoryyy
   card_announcement:
     enable: true
     content: This is my Blog
@@ -797,7 +797,7 @@ preloader:
 enter_transitions: true
 
 # Default display mode - light (default) / dark
-display_mode: light
+display_mode: dark
 
 # Configuration for beautifying the content of the article
 beautify:
