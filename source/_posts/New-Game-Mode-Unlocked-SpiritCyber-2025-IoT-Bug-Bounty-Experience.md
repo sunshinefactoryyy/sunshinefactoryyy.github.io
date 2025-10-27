@@ -53,7 +53,7 @@ Stepping out of my usual competition comfort zone might be one of the best decis
 
 As triaging is still ongoing and the bugs have yet to be disclosed, that's all I can share for now. 
 
-Can’t wait to share the bugs we found — I’ll post the write-ups as soon as they're ready to be disclosed!
+Can’t wait to share the bugs we found — I’ll post the write-ups as soon as they're ready to be disclosed! :D
 
 Will I try bug bounties again? Definitely.
 
