@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# Generated files
+public/
+.deploy_git/
+
+# Hexo cache
+db.json
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package manager
+yarn.lock
+package-lock.json
+
+# Theme git data (if using submodules)
+themes/*/.git
+
+# Personal/sensitive files
+_config.local.yml
