@@ -64,7 +64,7 @@ disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
 #default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
-default_top_img: img/sunshinefactory.png
+default_top_img: img/cover.jpg
 # The banner image of index page
 index_img:
 
@@ -289,6 +289,11 @@ aside:
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/sunshinefactoryyy
+    button1:
+      enable: true
+      icon: fab fa-linkedin
+      text: Follow Me
+      link: https://www.linkedin.com/in/wu-yuewei/
   card_announcement:
     enable: true
     content: grand opening of blog (FINALLY)
