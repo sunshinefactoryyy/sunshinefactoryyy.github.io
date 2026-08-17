@@ -50,7 +50,7 @@ I am proud to share that we managed to score 6th on Day 1 and 3rd on Day 2 (befo
 
 One of my biggest takeaways from WICC was the opportunity to meet and interact with incredibly talented competitors from teams such as the US, Europe, Oceania, and LAC, as well as people from across the world. The competition also strengthened our teamwork and communication, especially as we supported teammates with less CTF experience. I learned the importance of adapting quickly and thinking strategically in an unfamiliar CTF format, and I genuinely enjoyed the game-like element it added to the competition. Most of all, I loved the adrenaline of the Encounters—the 1v1 CTF duels—which made every decision feel immediate, competitive, and exciting.
 
-![AI Chat](aichat.png)
+![AI Chat](/Women-s-Internation-Cybersecurity-Challenge-2026-Dublin-Ireland-1/aichat.png)
 
 I love seeing people come together to brainstorm how we can keep the CTF scene thriving in an AI-driven future and I am glad to be part of this community.
 
