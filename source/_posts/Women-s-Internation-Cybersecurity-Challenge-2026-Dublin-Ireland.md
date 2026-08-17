@@ -31,17 +31,24 @@ Nevertheless, drawing on my previous Attack-Defense CTF experience, Codex + Clau
 
 ## New Perspective on CTF Modes
 
-One of WICC 2026 Dublin’s most exciting additions is the new Encounter mode, which turns chance meetings on the map into optional head-to-head CTF duels. When two eligible teams come within vision range, one can issue a challenge; if accepted, they draft the contest by alternately banning jeopardy-style categories before racing to solve a randomly selected challenge. The winner earns points, while even declining a duel carries a small strategic cost—creating tense moments where positioning, category knowledge, and nerve matter just as much as technical skill.
+One of WICC 2026 Dublin’s most exciting additions is the new Encounter mode, which turns chance meetings on the map into optional head-to-head CTF duels. When two eligible teams come within vision range, one can issue a challenge; if it is accepted, the teams alternately ban Jeopardy-style categories before racing to solve a randomly selected challenge from the category that remains. The winner earns points, while declining a duel carries a small strategic cost—creating tense moments where positioning, category knowledge, and nerve matter just as much as technical skill.
 
-Encounters are a notable departure from the standard CTF rhythm. In a traditional Jeopardy-style CTF, every team works independently from the same catalogue of challenges, and the contest is largely a race to be first to turn a solution into points. WICC’s ordinary Bonus challenges preserve that familiar first-blood format, but the Encounter mode makes the contest deliberately interpersonal: a challenge exists only after two nearby teams agree to face one another, and the first of those two teams to submit the flag wins. Rather than simply choosing the task they prefer from a public board, opponents shape the matchup together by alternating category bans until one Jeopardy-style category remains. This makes breadth valuable in a different way: teams are rewarded not only for solving challenges, but also for understanding their own strengths and weaknesses—and those of the team across the map.
+This differs markedly from a traditional Jeopardy-style CTF, where every team independently selects from the same challenge catalogue and races to submit a solution. WICC’s Bonus challenges retain that familiar first-blood model, but Encounters make competition deliberately interpersonal: the matchup depends on another team’s location, willingness to engage, and choices during the category draft. Instead of focusing solely on which challenge a team wants to solve, competitors must also assess their own strengths, anticipate an opponent’s preferences, and decide whether a potential duel is worth taking.
 
-![WICC Map Encounter](encounter1.png)
+<figure>
+	<img src="/img/encounter1.png" alt="WICC Map Encounter" style="max-width:90%;height:auto;">
+	<figcaption>WICC Map Encounter</figcaption>
+</figure>
 
-King of the Hill adds a third contrast. Like an Encounter, KotH is competitive rather than purely cooperative, but it is an ongoing, field-wide optimisation contest rather than a direct duel: every participating team submits a candidate solution to a shared challenge (in this case a python op-code chall), and the platform ranks those active submissions each round. Points depend on relative placement, so teams can keep iterating as rivals improve their own entries. Encounters are much more immediate and contained. Only two teams participate, their category is narrowed through a ban draft, and a single correct flag ends the contest. Where KotH rewards sustained refinement and the ability to stay ahead of the whole leaderboard, Encounters reward rapid analysis under pressure, selective matchmaking, and the ability to outsolve one known opponent in a head-to-head race.
+King of the Hill offers a different kind of competition again. Rather than pitting two teams directly against one another, KotH is an ongoing, field-wide optimisation contest in which every participating team submits a candidate solution to a shared challenge—in this case, a Python opcode challenge. The platform ranks active submissions each round, meaning that points depend on relative placement and teams must continue refining their solutions as rivals improve theirs. Where KotH rewards sustained iteration and the ability to remain ahead of the wider leaderboard, Encounters reward quick analysis, strategic decision-making, and the ability to outperform one specific opponent under pressure.
 
-The contrast with Attack-Defense is just as sharp. Attack-Defense creates a long-running, many-to-many contest: every team patches and operates its own copy of a vulnerable service, defends it against the entire field, and automates attacks to steal fresh flags from rivals round after round. Encounters have no service maintenance, exploit pipeline, or recurring scoring cycle. They are short, self-contained duels with an explicit beginning and end, focused on solving a single challenge faster than one specific opponent. Spatial play gives the mode its tension: teams must be close enough to meet, cannot start a duel while engaged with another challenge, and are frozen in place from the proposal until the outcome is decided. Even refusal is strategic—the challenger receives points if the other team declines or times out—while winners, losers, draws, forfeits, and cooldowns prevent a single pairing from dominating the match. The result is a mode that layers negotiation, scouting, and direct competition onto the technical problem-solving at the heart of a CTF.
+The contrast with Attack-Defense is equally clear. Attack-Defense is a long-running, many-to-many contest in which every team patches and operates its own vulnerable service while attacking the services maintained by the rest of the field. Success depends on balancing service reliability, defensive patching, and automated flag-stealing over repeated scoring rounds. Encounters, by comparison, are short and self-contained: there is no service to maintain, exploit pipeline to operate, or recurring score to protect. This gives the mode a different kind of intensity, adding direct competition and tactical decision-making to the technical problem-solving at the heart of a CTF.
 
-![WICC DAY2](day2score.png)
+<!-- ![WICC DAY2](/img/day2score.png) -->
+<figure>
+	<img src="/img/day2score.png" alt="WICC Map Encounter" style="max-width:90%;height:auto;">
+	<figcaption>Day 2 Scores</figcaption>
+</figure>
 
 ## Tabao (Takeaways)
 
@@ -50,12 +57,17 @@ I am proud to share that we managed to score 6th on Day 1 and 3rd on Day 2 (befo
 
 One of my biggest takeaways from WICC was the opportunity to meet and interact with incredibly talented competitors from teams such as the US, Europe, Oceania, and LAC, as well as people from across the world. The competition also strengthened our teamwork and communication, especially as we supported teammates with less CTF experience. I learned the importance of adapting quickly and thinking strategically in an unfamiliar CTF format, and I genuinely enjoyed the game-like element it added to the competition. Most of all, I loved the adrenaline of the Encounters—the 1v1 CTF duels—which made every decision feel immediate, competitive, and exciting.
 
-![AI Chat](/Women-s-Internation-Cybersecurity-Challenge-2026-Dublin-Ireland-1/aichat.png)
+<figure>
+	<img src="/img/aichat.png" alt="WICC Map Encounter" style="max-width:90%;height:auto;">
+</figure>
 
 I love seeing people come together to brainstorm how we can keep the CTF scene thriving in an AI-driven future and I am glad to be part of this community.
 
 Thank you to all the challenge creators, Zerodays and everyone that made this event so amazing.
 
-![Team Pic 1](teampic1.JPG)
-![Team Pic 2](teampic2.JPG)
+<figure>
+	<img src="/img/teampic1.JPG" alt="WICC Map Encounter" style="max-width:90%;height:auto;">
+</figure>
+
+![Team Pic 2](/img/teampic2.JPEG)
 
